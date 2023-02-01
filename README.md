@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML       25 mins         ██████████████▓░░░░░░░░░░   58.32 %
-Bash       9 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-Markdown   8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Other      6 hrs 7 mins    ████████████████▒░░░░░░░░   64.97 %
 ```
 
 <!--END_SECTION:waka-->
