@@ -1,4 +1,4 @@
-📊 **This week I spent my time on**
+📊 **Yesterday I spent my time on**
 
 <!--START_SECTION:waka-->
 
