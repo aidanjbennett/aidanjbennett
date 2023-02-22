@@ -1,4 +1,4 @@
-📊 **Yesterday I spent my time on**
+📊 **This week I spent my time using**
 
 <!--START_SECTION:waka-->
 
