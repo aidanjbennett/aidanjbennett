@@ -1,4 +1,8 @@
-📊 **This week I spent my time using**
+### Hi! I'm [Aidan Bennett](https://aidanjbennett.com) 👋🏼
+
+I'm a **Full time student** and a **Part Backend Engineer** in my spare time based in Nottingham, England 🌧️. I am mostly focused on **TypeScript** and **Golang**. However, in the future I want to learn **Rust** and **Java / Kotlin**.
+
+### This week I spent my time using
 
 <!--START_SECTION:waka-->
 
@@ -12,5 +16,3 @@ JSON         5 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!-- ![Aidans's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidanjbennett&show_icons=true&theme=radical&count_private=true) -->
