@@ -7,10 +7,10 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       5 hrs 3 mins    ████████████▓░░░░░░░░░░░░   50.54 %
-YAML         1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
-TypeScript   1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Other        44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Svelte       4 hrs 17 mins   ███████████░░░░░░░░░░░░░░   44.03 %
+YAML         1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+TypeScript   1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Other        44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
