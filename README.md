@@ -7,12 +7,12 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```text
-Go           11 hrs 11 mins  █████████████████░░░░░░░░   68.01 %
-HTML         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Svelte       1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-TypeScript   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Docker       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Vue.js       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Go           5 hrs 29 mins   ████████████▒░░░░░░░░░░░░   49.11 %
+HTML         1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Svelte       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Python       37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+TypeScript   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Docker       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
