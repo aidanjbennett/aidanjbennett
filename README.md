@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```text
-Astro        5 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.65 %
-Svelte       3 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.14 %
-YAML         36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-TypeScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Astro        4 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.26 %
+Svelte       4 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.60 %
+JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+YAML         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Other        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
