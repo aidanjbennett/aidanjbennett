@@ -8,7 +8,7 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 
 ```text
 Astro        4 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.26 %
-Svelte       4 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Svelte       4 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.61 %
 JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 YAML         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 Other        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
