@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     9 mins          ████████▒░░░░░░░░░░░░░░░░   32.94 %
-YAML         7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-Astro        5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-JSON         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+YAML         1 min           ██████████░░░░░░░░░░░░░░░   40.17 %
+JSON         1 min           █████████▒░░░░░░░░░░░░░░░   36.81 %
+TypeScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+TSConfig     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
