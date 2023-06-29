@@ -7,9 +7,9 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 hr 17 mins    ███████████▓░░░░░░░░░░░░░   46.34 %
-Dart         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Nix          25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Svelte       1 hr 17 mins    ███████████▓░░░░░░░░░░░░░   46.29 %
+Dart         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+Nix          25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
 JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
 Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
