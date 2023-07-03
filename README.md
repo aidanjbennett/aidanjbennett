@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         26 mins         ███████████▓░░░░░░░░░░░░░   47.20 %
-JavaScript   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-YAML         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-CSS          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JavaScript   12 mins         ██████████████▓░░░░░░░░░░   59.06 %
+CSS          3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+HTML         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Git Config   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
