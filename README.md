@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 20 mins    █████████▓░░░░░░░░░░░░░░░   38.63 %
-Rust         56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-TypeScript   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
-JSON         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Svelte       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Rust         56 mins         ███████████░░░░░░░░░░░░░░   43.70 %
+TypeScript   31 mins         ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+JSON         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Svelte       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+TSConfig     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
