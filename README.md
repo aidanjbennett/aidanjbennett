@@ -7,7 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           36 mins         ████████████▒░░░░░░░░░░░░   49.11 %
+Astro        23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.00 %
+Other        9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
