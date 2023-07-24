@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         2 hrs 14 mins   ███████████░░░░░░░░░░░░░░   44.37 %
-Go           1 hr 53 mins    █████████▒░░░░░░░░░░░░░░░   37.35 %
-Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Docker       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Git Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+YAML         2 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+Go           2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+TypeScript   1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
+JSON         1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+TSConfig     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 ```
 
 <!--END_SECTION:waka-->
