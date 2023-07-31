@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-JSON         1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-TypeScript   1 hr 24 mins    █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-JavaScript   39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-TSConfig     38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+Go           4 hrs 18 mins   ██████████████████░░░░░░░   71.72 %
+JavaScript   30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+JSON         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+SCSS         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
