@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       4 hrs 51 mins   █████████████████▒░░░░░░░   69.59 %
-YAML         1 hr 26 mins    █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-JSON         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-TOML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Go           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Svelte       2 hrs 51 mins   ███████████████▓░░░░░░░░░   63.03 %
+YAML         1 hr 25 mins    ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+TOML         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Rust         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
