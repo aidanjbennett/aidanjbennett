@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          1 hr 28 mins    ███████████░░░░░░░░░░░░░░   43.81 %
-HTML         1 hr 12 mins    █████████░░░░░░░░░░░░░░░░   35.70 %
-SSH Config   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Other        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-TSQL         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+CSS          1 hr 29 mins    ███████████▒░░░░░░░░░░░░░   45.27 %
+HTML         1 hr 12 mins    █████████▒░░░░░░░░░░░░░░░   36.71 %
+SSH Config   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Svelte       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
