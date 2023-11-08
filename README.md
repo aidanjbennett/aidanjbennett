@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 28 mins   ███████████████▒░░░░░░░░░   61.41 %
-Go           1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-YAML         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-TypeScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-CSV          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Python       6 hrs 28 mins   ██████████████▓░░░░░░░░░░   59.06 %
+Go           1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+YAML         1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+TypeScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+CSV          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
