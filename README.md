@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 19 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-Astro        1 hr 7 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
-TypeScript   57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-SQL          54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-Go           24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Go           2 hrs 35 mins   █████████░░░░░░░░░░░░░░░░   35.37 %
+TypeScript   2 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Astro        1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+SQL          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+YAML         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
