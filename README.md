@@ -7,8 +7,7 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-fish    11 mins         ███████████████████████▒░   92.77 %
-Other   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
