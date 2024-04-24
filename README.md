@@ -7,7 +7,10 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████████████████   100.00 %
+Python   4 mins          ██████████████▓░░░░░░░░░░   59.05 %
+Text     2 mins          ████████▒░░░░░░░░░░░░░░░░   33.49 %
+Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
