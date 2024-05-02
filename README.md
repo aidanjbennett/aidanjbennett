@@ -7,11 +7,10 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Python       51 mins         █████████▓░░░░░░░░░░░░░░░   39.00 %
-SSH Config   29 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-INI          22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-Bash         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-fish         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+SSH Config   29 mins         █████████████░░░░░░░░░░░░   51.89 %
+INI          22 mins         ██████████░░░░░░░░░░░░░░░   40.52 %
+Other        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
