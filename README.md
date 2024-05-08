@@ -7,8 +7,7 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-INI    1 min           ███████████████▒░░░░░░░░░   61.24 %
-JSON   0 secs          █████████▓░░░░░░░░░░░░░░░   38.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
