@@ -7,11 +7,7 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       1 hr 26 mins    ████████▒░░░░░░░░░░░░░░░░   33.54 %
-Astro        52 mins         █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-JavaScript   44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-Markdown     25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-JSON         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Svelte   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
