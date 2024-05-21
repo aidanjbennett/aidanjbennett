@@ -7,7 +7,7 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   21 mins         █████████████████████████   100.00 %
+Svelte   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
