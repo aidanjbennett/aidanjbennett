@@ -7,7 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     31 mins         ██████████████████▓░░░░░░   74.33 %
+TOML       6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+Markdown   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+fish       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
