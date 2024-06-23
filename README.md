@@ -7,9 +7,7 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-Astro        9 mins          ████████████████▓░░░░░░░░   66.68 %
-JavaScript   4 mins          ████████░░░░░░░░░░░░░░░░░   32.43 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
