@@ -7,11 +7,11 @@ I'm a **Full time student** and a **Part Backend Software Engineer** in my spare
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       56 mins         ███████████▒░░░░░░░░░░░░░   44.88 %
-PHP              23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-JSON             12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-INI              10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Git Config       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+JavaScript    44 mins         ███████████████░░░░░░░░░░   60.02 %
+INI           10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+JSON          9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+HTML          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+TypeScript    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
