@@ -2,4 +2,4 @@
 
 I'm a Software Engineering Student based in the United Kingdom. I code, write and build stuff on internet.
 
-[aidanjbennett.com](https://aidanjbennett.com) · [linkedin](https://linkedin.com/in/aidanjamesbennett)
+[aidanjbennett.com](https://aidanjbennett.com) · [linkedin](https://linkedin.com/in/aidanjb)
